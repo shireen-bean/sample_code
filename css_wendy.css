@@ -1,0 +1,110 @@
+body{
+	background-color: #2C3539;
+	color: #808080;
+	
+}
+
+.wrapper{
+	border-style: solid;
+	border-width: 2px;
+	margin:20px;
+	padding: 20px;
+	font-family: arial;
+	width: 600px;
+	height: 600px;
+	position: absolute;
+	left: 50%;
+	top:50%;
+	margin-left:-300px;
+	margin-top: -300px;
+
+}
+
+
+
+.header h1{
+	font-size: 27px;
+	font-weight: bold;
+	text-align: center;
+	font-style: italic;
+	font-family: times;
+
+}
+
+.header nav{
+	text-align: center;
+	color:white;
+	margin: 1rem;
+}
+
+
+.header .nav a{
+	color: green;
+
+}
+
+.resume-content h4 {
+	text-transform: uppercase;
+}
+
+.resume-content{
+	border-top: 2px solid;
+	border-bottom: 2px solid;
+	font-size: 12px;
+	height:475px;
+}
+
+.position{
+	font-style: bold;
+	color: white;
+	display: inline-block;
+}
+
+.company{
+	color: #D1D0CE;
+	display: inline-block;
+
+}
+
+.time{
+	display:inline-block;
+	color: #D1D0CE;
+}
+
+.info{
+	font-family: times;
+}
+
+.resume-content .education-content{
+	color: white;
+}
+
+.social-media{
+	margin: 10px;
+	text-align: center;
+	color:green;
+}
+
+.social-media a{
+	color: green;
+}
+
+
+
+.about-content{
+	border-top: 2px solid;
+	border-bottom: 2px solid;
+	font-size: 12px;
+	color: #808080;
+	height: 475px;
+	line-height: 2em;
+}
+
+
+.picture{
+	float: right;
+	width:200px;
+	margin: 0 0 10px 10px;
+
+}
+
